@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <!-- Add this to your existing package.xml -->
+    <types>
+        <members>Inventory_Item__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Inventory_Item__c.Product_Name__c</members>
+        <members>Inventory_Item__c.SKU__c</members>
+        <members>Inventory_Item__c.Current_Quantity__c</members>
+        <members>Inventory_Item__c.Reorder_Point__c</members>
+        <members>Inventory_Item__c.Last_Restock_Date__c</members>
+        <members>Inventory_Item__c.Supplier__c</members>
+        <members>Inventory_Item__c.Status__c</members>
+        <name>CustomField</name>
+    </types>
+    <version>61.0</version>
+</Package>

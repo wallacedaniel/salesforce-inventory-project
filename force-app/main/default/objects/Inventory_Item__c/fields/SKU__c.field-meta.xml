@@ -1,0 +1,13 @@
+<!-- SKU__c.field-meta.xml -->
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>SKU__c</fullName>
+    <description>Stock Keeping Unit - unique identifier for the product</description>
+    <externalId>true</externalId>
+    <label>SKU</label>
+    <length>50</length>
+    <required>true</required>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>true</unique>
+</CustomField>

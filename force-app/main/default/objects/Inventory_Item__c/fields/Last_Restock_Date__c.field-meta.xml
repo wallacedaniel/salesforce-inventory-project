@@ -1,0 +1,11 @@
+<!-- Last_Restock_Date__c.field-meta.xml -->
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Last_Restock_Date__c</fullName>
+    <description>Date when the inventory was last restocked</description>
+    <externalId>false</externalId>
+    <label>Last Restock Date</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Date</type>
+</CustomField>
